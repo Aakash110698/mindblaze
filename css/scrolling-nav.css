@@ -17,10 +17,7 @@ header {
 
 }
 .singlepostbackground
-{  padding-bottom: 10px;
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+{  
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -32,7 +29,7 @@ header {
   }
 } */
 .full {
-    background: url('sample.jpg') no-repeat center center fixed;
+    background: url('sample12.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -55,7 +52,7 @@ sectionheader {
   padding: 150px 0;
   height: 100%;
 }
-h7
+h2
 {
   color: white;
 }
@@ -78,4 +75,8 @@ p
 	line-height: 21px;
 	letter-spacing:1px;
 	padding-right:12%;
+}
+.singleevent
+{
+  padding-bottom: 100px;
 }
